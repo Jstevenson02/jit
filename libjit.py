@@ -292,5 +292,3 @@ def cat_file(repo, obj, fmt=None):
     
 def object_find(repo, name, fmt=None, follow=True):
     return name
-
-// test 
