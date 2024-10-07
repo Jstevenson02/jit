@@ -1,0 +1,3 @@
+import libjrsg
+
+libjrsg.main()
