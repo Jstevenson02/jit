@@ -1,3 +1,3 @@
-import libjrsg
+import libjit
 
-libjrsg.main()
+libjit.main()
